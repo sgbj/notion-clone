@@ -86,7 +86,7 @@ export const TrashBox = () => {
             onClick={() => onClick(document._id)}
             className="text-sm rounded-sm w-full hover:bg-primary/5 flex items-center text-primary justify-between"
           >
-            <span className="truncate">{document.title}</span>
+            <span className="truncate pl-2">{document.title}</span>
             <div className="flex items-center">
               <div
                 onClick={(e) => onRestore(e, document._id)}
