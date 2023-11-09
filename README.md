@@ -4,11 +4,11 @@ A fullstack Notion clone built with Next.js, React, Tailwind, Clerk, Convex, Edg
 
 ## Landing page
 
-![Screenshot 1](https://github.com/sgbj/notion-clone/assets/5178445/5628b0dc-adf7-49e7-a80e-a129fad1c5a5)
+![Screenshot 1](https://github.com/sgbj/notion-clone/assets/5178445/cc2bb741-4315-42f6-83f9-d1cfca072f0a)
 
 ## Editor
 
-![Screenshot 2](https://github.com/sgbj/notion-clone/assets/5178445/2cd1e625-8380-44df-82d0-f9ee36c8d520)
+![Screenshot 2](https://github.com/sgbj/notion-clone/assets/5178445/592d8c74-6d3f-4dec-be20-dd5390fdf1be)
 
 ## Features
 
